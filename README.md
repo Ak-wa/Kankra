@@ -1,5 +1,5 @@
 # Kankra
-A Website Crawler, Python 3.x
+A Website Spider/Crawler, Python 3.x
 
 ![python](https://img.shields.io/pypi/pyversions/Django.svg)
 ![size](https://img.shields.io/github/size/ak-wa/Kankra/kankra.py.svg)
