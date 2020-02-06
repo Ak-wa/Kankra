@@ -13,12 +13,13 @@ A Website Spider/Crawler, Python 3.x
 * Adjusts the results for a useful output
 * Automatic out of Scope checking
 * Configurable:   
+```
 --target <str>  | Target to scan   
 --depth <int>   | Depth to crawl through   
 --output <str>  | Output file for raw links
 --full          | Show output with full website links      
 --silent        | Do not show progress, only results
-
+```
 ## Usage & examples
 
 1. Basic Crawling with depth 10
