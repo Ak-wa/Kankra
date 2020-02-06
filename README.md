@@ -28,7 +28,14 @@ python3 kankra.py --target https://example.com --depth 10
 
 `
 python3 kankra.py --target https://example.com --depth 15 --silent --full --output output.txt
-`
+`  
 
+## Installation  
 
+```
+git clone https://github.com/Ak-wa/Kankra.git
+cd Kankra
+pip3 install -r requirements.txt
+python3 kankra.py -h
+```
 
