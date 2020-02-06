@@ -6,6 +6,7 @@ A Website Spider/Crawler, Python 3.x
 ![lastcommit](https://img.shields.io/github/last-commit/ak-wa/Kankra.svg)
 ![follow](https://img.shields.io/github/followers/ak-wa.svg?label=Follow&style=social)
 
+![](kankra.gif)
 
 * Crawls a website for hrefs, js & img files
 * Detects links that use a full URL and those without  
