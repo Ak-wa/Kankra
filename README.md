@@ -8,13 +8,15 @@ A Website Spider/Crawler, Python 3.x
 
 
 * Crawls a website for hrefs, js & img files
+* Detects links that use a full URL and those without
+* Adjusts the results for a useful output
 * Automatic out of Scope checking
 * Configurable:   
---target      | Target to scan   
---depth <int> | Depth to crawl through   
---output      | Output file
---full        | Show output with full website links      
---silent      | Do not show progress, only results
+--target <str>  | Target to scan   
+--depth <int>   | Depth to crawl through   
+--output <str>  | Output file
+--full          | Show output with full website links      
+--silent        | Do not show progress, only results
 
 ## Usage & examples
 
